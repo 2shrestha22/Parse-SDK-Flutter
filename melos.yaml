@@ -1,0 +1,4 @@
+name: parse_sdk_flutter
+
+packages:
+  - packages/**
